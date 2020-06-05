@@ -24,3 +24,10 @@ The same argument should also work for server side function serve
 2. 数据库连接问题
 * 连接oracle数据库时应当使用cx_oracle库，同时还要到Oracle官网下载响应的Oracle instant
 > https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+
+## 更新
+### v0.2
+* 修改了输出的格式
+* 优化了变量函数命名
+* 增加了错误处理
+* 添加日志输出
